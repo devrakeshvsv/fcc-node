@@ -1,0 +1,27 @@
+{
+    "name": "fcc-node",
+    "version": "1.0.0",
+    "description": "FreeCodeCamp NodeJS Learning",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rakeshvdev/fcc-node.git"
+    },
+    "keywords": [
+        "freecodecamp",
+        "nodejs",
+        "learning"
+    ],
+    "author": "Rakesh Vishwakarma",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rakeshvdev/fcc-node/issues"
+    },
+    "homepage": "https://github.com/rakeshvdev/fcc-node#readme",
+    "dependencies": {
+        "@freecodecamp/example": "1.2.13"
+    }
+}
